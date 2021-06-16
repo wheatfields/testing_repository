@@ -7,7 +7,7 @@ Created on Wed Jun 16 12:01:14 2021
 
 
 a = 2 + 1 + 2
-b = 4 + 1
+b = 4 + 1 + 66
 c = 6 + 1
 
 model = a+b+c
