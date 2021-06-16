@@ -11,3 +11,7 @@ b = 4 + 1 + 66
 c = 6 + 1
 
 model = a+b+c
+
+model_sq = model^2
+
+model1 = model + 1
